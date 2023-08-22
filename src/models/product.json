@@ -1,0 +1,211 @@
+[
+  {
+    "id": 1,
+    "title": "Mouse logitech",
+    "description": "el mejor mouse",
+    "price": 35,
+    "thumbnail": "./mouse.jpg",
+    "code": "asd123",
+    "stock": 10,
+    "status": true,
+    "category": "Accesorio"
+  },
+  {
+    "id": 2,
+    "title": "Teclado mecanico",
+    "description": "ideal para jugadores",
+    "price": 80,
+    "thumbnail": "./teclado.jpg",
+    "code": "qwe456",
+    "stock": 15,
+    "status": true,
+    "category": "Accesorio"
+  },
+  {
+    "id": 3,
+    "title": "Monitor Samsung",
+    "description": "pantalla LED de alta resolución",
+    "price": 250,
+    "thumbnail": "./monitor.jpg",
+    "code": "zxc789",
+    "stock": 5,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 4,
+    "title": "Auriculares Sony",
+    "description": "cancelación de ruido",
+    "price": 150,
+    "thumbnail": "./auriculares.jpg",
+    "code": "rty123",
+    "stock": 20,
+    "status": true,
+    "category": "Accesorio"
+  },
+  {
+    "id": 5,
+    "title": "Disco duro externo",
+    "description": "1TB de almacenamiento",
+    "price": 60,
+    "thumbnail": "./disco.jpg",
+    "code": "fgh456",
+    "stock": 12,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 6,
+    "title": "Camara Canon",
+    "description": "captura momentos inolvidables",
+    "price": 450,
+    "thumbnail": "./camara.jpg",
+    "code": "vbn789",
+    "stock": 8,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 7,
+    "title": "Smartphone Xiaomi",
+    "description": "última tecnología Android",
+    "price": 300,
+    "thumbnail": "./smartphone.jpg",
+    "code": "uio123",
+    "stock": 25,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 8,
+    "title": "Impresora HP",
+    "description": "imprime en alta calidad",
+    "price": 120,
+    "thumbnail": "./impresora.jpg",
+    "code": "jkl456",
+    "stock": 18,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 9,
+    "title": "Tablet Samsung",
+    "description": "pantalla AMOLED de 10 pulgadas",
+    "price": 200,
+    "thumbnail": "./tablet.jpg",
+    "code": "mnb789",
+    "stock": 10,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 10,
+    "title": "Altavoces Bose",
+    "description": "sonido envolvente",
+    "price": 180,
+    "thumbnail": "./altavoces.jpg",
+    "code": "poi123",
+    "stock": 14,
+    "status": true,
+    "category": "Accesorio"
+  },
+  {
+    "id": 11,
+    "title": "Laptop Lenovo",
+    "description": "rendimiento y portabilidad",
+    "price": 700,
+    "thumbnail": "./laptop.jpg",
+    "code": "zxcvbn",
+    "stock": 7,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 12,
+    "title": "Smart TV LG",
+    "description": "pantalla 4K con tecnología OLED",
+    "price": 800,
+    "thumbnail": "./tv.jpg",
+    "code": "qwertasd",
+    "stock": 3,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 13,
+    "title": "Reloj inteligente",
+    "description": "monitorea tu actividad física",
+    "price": 100,
+    "thumbnail": "./reloj.jpg",
+    "code": "yuihjk",
+    "stock": 30,
+    "status": true,
+    "category": "Accesorio"
+  },
+  {
+    "id": 14,
+    "title": "Router ASUS",
+    "description": "conexiones de alta velocidad",
+    "price": 150,
+    "thumbnail": "./router.jpg",
+    "code": "bnmqwe",
+    "stock": 22,
+    "status": true,
+    "category": "Electrónico"
+  },
+  {
+    "id": 15,
+    "title": "Horno microondas",
+    "description": "calienta tus alimentos en segundos",
+    "price": 50,
+    "thumbnail": "./microondas.jpg",
+    "code": "asdzxc",
+    "stock": 40,
+    "status": true,
+    "category": "Electrodoméstico"
+  },
+  {
+    "id": 16,
+    "title": "Silla ergonomica",
+    "description": "comodidad durante largas horas",
+    "price": 120,
+    "thumbnail": "./silla.jpg",
+    "code": "rfvtyh",
+    "stock": 15,
+    "status": true,
+    "category": "Mueble"
+  },
+  {
+    "id": 17,
+    "title": "Bicicleta plegable",
+    "description": "ideal para desplazamientos urbanos",
+    "price": 250,
+    "thumbnail": "./bicicleta.jpg",
+    "code": "edcftg",
+    "stock": 8,
+    "status": true,
+    "category": "Deporte"
+  },
+  {
+    "id": 18,
+    "title": "Batidora KitchenAid",
+    "description": "prepara deliciosos batidos",
+    "price": 80,
+    "thumbnail": "./batidora.jpg",
+    "code": "ujikol",
+    "stock": 18,
+    "status": true,
+    "category": "Electrodoméstico"
+  },
+  {
+    "id": 19,
+    "title": "Maleta Samsonite",
+    "description": "duradera y espaciosa",
+    "price": 180,
+    "thumbnail": "./maleta.jpg",
+    "code": "zxcvml",
+    "stock": 10,
+    "status": true,
+    "category": "Accesorio"
+  }
+]
